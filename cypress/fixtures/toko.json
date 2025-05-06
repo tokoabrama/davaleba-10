@@ -1,0 +1,23 @@
+{
+"ValidUser" : {
+
+  "name": "Tornike Abramishvili",
+  "email": "Tornikeabrama@gmail.com",
+  "personalNumber": "01001098563",
+  "phone": "9086167896",
+  "password": "toko123"
+},
+"ValidLogin": {
+  "email": "tornikeabrama@gmail.com",
+  "password": "toko123"
+},
+"invalidRegistration": {
+  "fullName": "mzia",
+  "email": "tornikeabrama@gmail.com",
+  "idNumber": "0101001096943",
+  "phone": "598193873",
+  "password": "toko12345"
+}
+}
+
+
