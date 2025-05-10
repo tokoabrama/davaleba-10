@@ -1,0 +1,18 @@
+{
+    "name": "tornike",
+    "firstName": "tornike",
+    "lastName": "Abramishvili",
+    "email": "tornikeabrama@gmail.com",
+    "invalidEmail": "tornikeabrama@@gmail.com",
+    "password": "Tornike123",
+    "invalidPassword": "Tornike1234",
+    "company": "TestCompany",
+    "address1": "Address Line 1",
+    "address2": "Address Line 2",
+    "country": "United States",
+    "state": "New Jersey",
+    "city": "clifton",
+    "zipcode": "07011",
+    "mobileNumber": "7153239724"
+  }
+  
