@@ -1,0 +1,22 @@
+{
+  "name": "davaleba-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokoabrama/davaleba-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokoabrama/davaleba-10/issues"
+  },
+  "homepage": "https://github.com/tokoabrama/davaleba-10#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
